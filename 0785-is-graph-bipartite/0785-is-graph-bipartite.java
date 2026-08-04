@@ -1,9 +1,9 @@
 class Solution {
-    public boolean dfs(List<List<Integer>>adj,int []color,int curr ){
-        for(int num : adj.get(curr)){
+    public boolean dfs(int[][]graph,int []color,int curr ){
+        for(int num : graph[curr]){
            if(color[num]==-1){
                 color[num]=1-color[curr];
-                if(!dfs(adj,color,num))return false;
+                if(!dfs(graph,color,num))return false;
            }
            else if(color[num]==color[curr])return false;//agar khali nhai toh color same nahi hona chahiye
 
@@ -11,16 +11,17 @@ class Solution {
         return true;
     }
     public boolean isBipartite(int[][] graph) {
-        List<List<Integer>>adj=new ArrayList<>();
         int n=graph.length;
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int i=0;i<n;i++){
-            for(int num : graph[i]){
-                adj.get(i).add(num);
-            }
-        }
+        // List<List<Integer>>adj=new ArrayList<>();
+        
+        // for(int i=0;i<n;i++){
+        //     adj.add(new ArrayList<>());
+        // }
+        // for(int i=0;i<n;i++){
+        //     for(int num : graph[i]){
+        //         adj.get(i).add(num);
+        //     }
+        // }
         int []color=new int[n];
         Arrays.fill(color,-1);
         // //red =0 //yellow =1    isme kya hai ki abhi graph connected nahi hai agar disconnected graph ke liye bhi karna hai to uske liye alag se loop lagana padega
@@ -30,7 +31,7 @@ class Solution {
  
             if(color[i]==-1){
                  color[i]=0;
-                if(!dfs(adj,color,i))return false;
+                if(!dfs(graph,color,i))return false;
             }
         }
             return true; 
