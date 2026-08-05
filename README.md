@@ -18,12 +18,14 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
