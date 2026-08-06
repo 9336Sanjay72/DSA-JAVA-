@@ -66,6 +66,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -93,4 +94,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
