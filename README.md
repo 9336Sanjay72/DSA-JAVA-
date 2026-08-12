@@ -16,6 +16,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -98,6 +99,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
@@ -133,4 +135,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
