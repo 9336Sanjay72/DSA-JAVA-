@@ -18,6 +18,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Depth-First Search
@@ -135,6 +136,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
