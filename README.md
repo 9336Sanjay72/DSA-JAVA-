@@ -9,6 +9,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
@@ -109,6 +110,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -175,4 +177,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
