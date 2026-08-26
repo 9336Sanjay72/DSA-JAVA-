@@ -9,6 +9,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
@@ -115,6 +116,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -193,6 +195,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
