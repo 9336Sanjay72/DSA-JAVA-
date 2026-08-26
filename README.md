@@ -16,6 +16,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -114,6 +115,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -125,6 +127,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Union-Find
@@ -160,6 +163,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bit Manipulation
