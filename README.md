@@ -18,6 +18,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -101,6 +102,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -116,6 +118,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -164,6 +167,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bit Manipulation
@@ -191,6 +195,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
