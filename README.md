@@ -14,6 +14,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -169,6 +170,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -199,6 +201,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -206,5 +209,6 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 <!---LeetCode Topics End-->
