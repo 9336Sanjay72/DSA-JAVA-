@@ -6,6 +6,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -180,6 +181,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Dynamic Programming
@@ -216,5 +218,6 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
