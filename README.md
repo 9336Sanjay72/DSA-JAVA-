@@ -114,6 +114,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -164,6 +165,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
