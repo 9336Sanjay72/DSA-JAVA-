@@ -119,6 +119,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -184,6 +185,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
