@@ -113,6 +113,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1922-count-good-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -240,6 +241,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1922-count-good-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
