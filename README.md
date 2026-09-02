@@ -39,6 +39,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3718-smallest-missing-multiple-of-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
