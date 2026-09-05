@@ -44,6 +44,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3875-construct-uniform-parity-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +237,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
