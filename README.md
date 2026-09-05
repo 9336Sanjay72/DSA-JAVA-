@@ -129,6 +129,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
@@ -140,6 +141,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -247,6 +249,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0040-combination-sum-ii/) | Medium |
