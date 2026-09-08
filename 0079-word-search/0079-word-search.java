@@ -4,13 +4,13 @@ class Solution {
         int m=board[0].length;
         if(idx==s.length())return true;
         if(row<0 || row>=n ||col<0|| col>=m || s.charAt(idx)!=board[row][col]||board[row][col]=='$'|| idx>=s.length() )return false;
-        char temp=board[row][col];
+        // char temp=board[row][col];
         board[row][col]='$';
         if(solve(board,s,row+1,col,idx+1))return true;
         if(solve(board,s,row,col+1,idx+1))return true;
         if(solve(board,s,row-1,col,idx+1))return true;
         if(solve(board,s,row,col-1,idx+1))return true;
-        board[row][col]=temp;
+        board[row][col]=s.charAt(idx);
         return false;
         
     }
