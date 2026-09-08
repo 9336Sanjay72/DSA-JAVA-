@@ -128,6 +128,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3870-count-commas-in-range](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
