@@ -1,6 +1,5 @@
 class Solution {
     public long countCommas(long n) {
-        if(n<1000)return 0;
         long count=1;
         long ans=0;
         for(long i=1000;i<=n;i*=1000){
@@ -10,6 +9,6 @@ class Solution {
             count++;
         }
         return ans;
-        
+
     }
 }
