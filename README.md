@@ -6,6 +6,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0051-n-queens/) | Hard |
@@ -75,6 +76,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
@@ -151,6 +153,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -262,6 +265,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0051-n-queens/) | Hard |
@@ -297,6 +301,11 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0052-n-queens-ii/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
