@@ -6,16 +6,30 @@ class Solution {
         boolean leftToRight=true;
         while(!q.isEmpty()){
             int size=q.size();
-            List<Integer> list=new ArrayList<>();
+            int[]arr=new int[size];
+            int start=0;
+            int end=size-1;
             for(int i=0;i<size;i++){
                 TreeNode node=q.poll();
-                list.add(node.val);
+                if(leftToRight){
+                    arr[start]=node.val;
+                    start++;
+                }
+                else{
+                   arr[end]=node.val;
+                    end--;
+                }
+                
                 if(node.left!=null)q.add(node.left);
                 if(node.right!=null)q.add(node.right);
                 
             }
-            if(!leftToRight){
-                Collections.reverse(list);
+            // if(!leftToRight){
+            //     Collections.reverse(list);
+            // }
+            List<Integer> list=new ArrayList<>();
+            for(int num : arr){
+                list.add(num);
             }
             leftToRight=!leftToRight;
             result.add(list);
