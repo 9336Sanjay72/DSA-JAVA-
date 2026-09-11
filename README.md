@@ -36,6 +36,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -121,6 +122,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -175,6 +177,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -209,6 +212,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
@@ -299,6 +303,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0024-swap-nodes-in-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0050-powx-n/) | Medium |
 | [1922-count-good-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1922-count-good-numbers/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
