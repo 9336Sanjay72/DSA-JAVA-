@@ -14,10 +14,10 @@ class Solution {
         if(root == null){
             return new Node(-1, 0, true);
         }
-        if(root.left==null && root.right==null){
-            list.add(1);
-            return new Node(0,1,true);
-        }
+        // if(root.left==null && root.right==null){
+        //     list.add(1);
+        //     return new Node(0,1,true);
+        // }
         Node left=solve(root.left);
         Node right=solve(root.right);
         int height=1+Math.max(left.height ,right.height);
