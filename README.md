@@ -77,6 +77,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -366,6 +368,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,4 +382,5 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
