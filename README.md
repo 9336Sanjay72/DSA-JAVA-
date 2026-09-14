@@ -67,6 +67,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -364,6 +365,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -380,6 +382,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -390,4 +393,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0836-rectangle-overlap/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
