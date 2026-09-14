@@ -63,6 +63,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
@@ -366,6 +367,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -385,6 +387,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
