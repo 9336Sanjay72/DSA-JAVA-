@@ -68,6 +68,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -92,6 +93,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
@@ -384,6 +386,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -406,6 +409,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
