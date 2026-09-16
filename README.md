@@ -174,6 +174,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1922-count-good-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -291,6 +292,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Minimax
@@ -315,6 +317,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0974-subarray-sums-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -437,4 +440,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
