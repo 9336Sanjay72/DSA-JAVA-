@@ -44,6 +44,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -220,6 +221,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
