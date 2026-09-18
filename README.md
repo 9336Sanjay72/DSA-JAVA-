@@ -142,6 +142,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -154,6 +155,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -199,6 +201,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -220,6 +223,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
