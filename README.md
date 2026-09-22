@@ -52,6 +52,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -188,6 +189,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3870-count-commas-in-range](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -477,4 +479,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
