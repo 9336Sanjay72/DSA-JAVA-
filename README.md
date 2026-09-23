@@ -38,6 +38,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -231,6 +232,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -293,6 +295,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -339,6 +342,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -347,6 +351,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Backtracking
