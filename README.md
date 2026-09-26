@@ -84,6 +84,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -115,6 +116,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
@@ -217,6 +219,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -451,6 +454,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -481,6 +485,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0199-binary-tree-right-side-view](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -526,4 +531,9 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 <!---LeetCode Topics End-->
