@@ -14,6 +14,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
@@ -232,6 +233,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -435,6 +437,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0102-binary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -464,6 +467,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0102-binary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -509,4 +513,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
