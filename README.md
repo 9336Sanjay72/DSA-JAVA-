@@ -223,6 +223,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -411,6 +412,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0590-n-ary-tree-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0739-daily-temperatures/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
