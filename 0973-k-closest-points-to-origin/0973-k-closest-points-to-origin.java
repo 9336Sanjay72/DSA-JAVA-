@@ -9,7 +9,7 @@ class Dis{
 }
 class Solution {
     public double findDistance(int[]nums){
-        return Math.sqrt(Math.pow(nums[0],2)+Math.pow(nums[1],2));
+        return nums[0]*nums[0]+nums[1]*nums[1];
     }
     public int[][] kClosest(int[][] points, int k) {
         PriorityQueue<Dis> pq=new PriorityQueue<>((a,b)-> Double.compare(b.distance,a.distance));
