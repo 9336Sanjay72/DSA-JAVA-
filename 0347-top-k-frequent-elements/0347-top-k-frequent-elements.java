@@ -9,13 +9,7 @@ class Solution {
         PriorityQueue<Integer> pq=new PriorityQueue<>((a,b)->{
             return freq.get(b)-freq.get(a);
         });
-        Set<Integer>set=new HashSet<>();
-        for(int num :nums ){
-            set.add(num);
-        }
-        for(int num : set){
-            pq.add(num);
-        }
+        for(int num :freq.keySet())pq.add(num);
         int[]result=new int[k];
         for(int i=0;i<k;i++){
             result[i]=pq.poll();
