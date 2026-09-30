@@ -61,6 +61,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [3524-find-x-value-of-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -133,6 +134,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
@@ -348,6 +352,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
