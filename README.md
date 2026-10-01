@@ -31,6 +31,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
+| [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -167,6 +168,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
+| [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -181,6 +183,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
+| [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -271,6 +274,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
