@@ -234,6 +234,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
@@ -435,6 +436,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -451,6 +453,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
