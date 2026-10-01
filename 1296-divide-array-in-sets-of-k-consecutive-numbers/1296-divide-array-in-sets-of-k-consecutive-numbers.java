@@ -9,7 +9,7 @@ class Solution {
             int freq=map.get(key);
             if(freq==0)continue;
             for(int i=0;i<k;i++){
-                if(!map.containsKey(key+i)){
+                if(!map.containsKey(key+i) || map.get(key+i)<freq){
                     return false;
                 }
                 map.put(key+i,map.get(key+i)-freq);
