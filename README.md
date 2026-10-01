@@ -39,6 +39,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -169,6 +170,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -187,6 +189,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -282,6 +285,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
