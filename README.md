@@ -181,6 +181,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -208,6 +209,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
@@ -340,6 +342,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -585,6 +588,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Binary Search Tree
@@ -606,4 +610,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
