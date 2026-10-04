@@ -6,6 +6,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0039-combination-sum/) | Medium |
@@ -427,6 +428,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
