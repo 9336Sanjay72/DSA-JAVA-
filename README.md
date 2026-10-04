@@ -12,6 +12,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0039-combination-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
@@ -387,6 +388,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
@@ -598,6 +600,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
