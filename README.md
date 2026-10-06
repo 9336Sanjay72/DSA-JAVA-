@@ -176,6 +176,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -271,6 +272,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
@@ -356,6 +358,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Simulation
@@ -481,6 +484,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +501,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
