@@ -127,6 +127,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -260,6 +261,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -460,6 +462,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Recursion
