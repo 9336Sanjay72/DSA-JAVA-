@@ -38,6 +38,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -193,6 +194,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -358,6 +360,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
