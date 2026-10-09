@@ -23,6 +23,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
@@ -406,6 +407,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -466,6 +468,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0784-letter-case-permutation](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0784-letter-case-permutation/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Recursion
@@ -668,4 +671,12 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
