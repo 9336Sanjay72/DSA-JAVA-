@@ -64,6 +64,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -336,6 +337,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -641,6 +643,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -697,4 +700,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
