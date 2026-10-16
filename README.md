@@ -22,6 +22,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
@@ -424,6 +425,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
