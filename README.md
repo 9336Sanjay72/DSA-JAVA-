@@ -41,6 +41,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -165,6 +166,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -436,6 +438,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
