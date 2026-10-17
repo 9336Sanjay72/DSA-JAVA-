@@ -247,6 +247,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [0223-rectangle-area](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0223-rectangle-area/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -423,6 +424,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0022-generate-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
@@ -635,6 +637,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
