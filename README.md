@@ -13,6 +13,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0040-combination-sum-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
@@ -156,6 +157,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0037-sudoku-solver/) | Hard |
+| [0063-unique-paths-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
@@ -425,6 +427,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0032-longest-valid-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
