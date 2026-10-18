@@ -18,6 +18,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0079-word-search](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
@@ -431,6 +432,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
