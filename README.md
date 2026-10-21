@@ -52,6 +52,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -169,6 +170,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
@@ -442,6 +444,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
