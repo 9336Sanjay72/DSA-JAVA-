@@ -71,6 +71,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2333-minimum-sum-of-squared-difference](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -175,6 +176,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1277-count-square-submatrices-with-all-ones](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -452,6 +454,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3524-find-x-value-of-array-i/) | Medium |
