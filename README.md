@@ -61,6 +61,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -198,6 +199,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
