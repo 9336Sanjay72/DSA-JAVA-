@@ -23,6 +23,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0130-surrounded-regions/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -451,6 +452,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
