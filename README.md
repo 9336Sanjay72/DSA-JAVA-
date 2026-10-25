@@ -53,6 +53,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0992-subarrays-with-k-different-integers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -128,6 +129,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -158,6 +160,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -177,6 +180,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -385,6 +389,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
