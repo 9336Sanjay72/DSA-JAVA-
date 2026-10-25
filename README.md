@@ -40,6 +40,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0835-image-overlap/) | Medium |
@@ -204,6 +205,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0846-hand-of-straights](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0846-hand-of-straights/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -463,6 +465,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0940-distinct-subsequences-ii/) | Hard |
