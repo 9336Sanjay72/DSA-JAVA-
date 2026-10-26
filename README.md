@@ -218,6 +218,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -289,6 +290,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1401-circle-and-rectangle-overlapping](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1922-count-good-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -330,6 +332,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
