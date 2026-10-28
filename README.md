@@ -31,6 +31,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
@@ -477,6 +478,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -754,10 +756,12 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
