@@ -35,6 +35,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
@@ -524,6 +525,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
