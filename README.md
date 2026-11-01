@@ -35,6 +35,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -484,6 +485,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
@@ -764,6 +766,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0322-coin-change](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -777,4 +780,5 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
