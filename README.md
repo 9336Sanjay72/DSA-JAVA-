@@ -28,6 +28,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0200-number-of-islands](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0216-combination-sum-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -493,6 +494,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
@@ -543,6 +545,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -794,4 +797,8 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | ------- | ------- |
 | [0322-coin-change](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
