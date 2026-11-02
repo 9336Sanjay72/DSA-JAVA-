@@ -85,6 +85,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -261,6 +262,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2094-finding-3-digit-even-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -387,6 +389,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2418-sort-the-people](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2418-sort-the-people/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -440,6 +443,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
