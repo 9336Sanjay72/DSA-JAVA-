@@ -34,6 +34,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0525-contiguous-array/) | Medium |
@@ -240,6 +241,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0215-kth-largest-element-in-an-array](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -287,6 +289,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [0223-rectangle-area](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0223-rectangle-area/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0877-stone-game/) | Medium |
