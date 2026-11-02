@@ -34,6 +34,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0403-frog-jump](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0518-coin-change-ii/) | Medium |
@@ -289,6 +290,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0062-unique-paths](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0062-unique-paths/) | Medium |
 | [0223-rectangle-area](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0223-rectangle-area/) | Medium |
 | [0264-ugly-number-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0836-rectangle-overlap/) | Easy |
