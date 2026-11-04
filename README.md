@@ -46,6 +46,7 @@ Consistently solving Data Structures &amp; Algorithms problems to strengthen pro
 | [0621-task-scheduler](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0630-course-schedule-iii/) | Hard |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0695-max-area-of-island](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/9336Sanjay72/DSA-JAVA-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
